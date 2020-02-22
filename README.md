@@ -5,7 +5,7 @@ This repos is my personal Lab test and working example of Setting up a ec2 insta
 
 This script is working based on aws-cli command and setup a ec2 account on a private vpc network along with a Load-balancer
 
-This script is setup top test my personal working Skill on aws-cli and improve it.
+This script is setup to test my personal working Skill on aws-cli and improve it.
 
 2.) InstanceIDdetails.sh
 
